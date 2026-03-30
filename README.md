@@ -13,8 +13,7 @@ A study productivity application that helps students maximize focus and track le
 
 - Python
 - Tkinter (GUI)
-- Pandas (Data handling)
-- Matplotlib (Visualizations)
+- Pandas (Data handling)  - Matplotlib (Visualizations)
 - JSON (Data storage)
 
 ## Current Progress
